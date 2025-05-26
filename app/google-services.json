@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715442533088",
+    "project_id": "imdbapplogin",
+    "storage_bucket": "imdbapplogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715442533088:android:1b13d8455c8767b82c5685",
+        "android_client_info": {
+          "package_name": "com.example.imdbapplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Ruda9EYgLp2_L2bUyV36sXUqgv58KOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
